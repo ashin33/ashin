@@ -29,37 +29,7 @@
 </head>
 
 <body>
-<div id="app">
-    <div class="text-wrapper">
-        <div class="text part1">
-            <div>
-                    <span class="letter">
-                        <div class="character">L</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">o</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">a</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">d</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">i</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">n</div> <span></span>
-                    </span>
-                <span class="letter">
-                        <div class="character">g</div> <span></span>
-                    </span>
-            </div>
-        </div>
-        <div class="how-to"><span>正在加载中，请您耐心等待...</span></div>
-    </div>
 
-</div>
 <div id="demo"></div>
 <script src="{{asset('pdfh5/js/pdf.js')}}" type="text/javascript" charset="utf-8"></script>
 <script src="{{asset('pdfh5/js/pdf.worker.js')}}" type="text/javascript" charset="utf-8"></script>
@@ -67,14 +37,13 @@
 <script src="{{asset('pdfh5/js/pdfh5.js')}}" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
     $(function () {
-        $("#app").remove();
-        $("#demo").show();
+        $("#app").remove()
+        $("#demo").show()
         //当前默认优先获取浏览器地址栏？file=后面的地址，如果地址栏没有，再拿配置项的pdfurl或者data来渲染pdf
         //优先顺序：  ？file= > pdfurl > data
         var pdfh5 = new Pdfh5('#demo', {
-            pdfurl: "https://www.gjtool.cn/pdfh5/git.pdf",
-            // pdfurl: "testPDF/1.pdf",
-            // renderType:"canvas",
+            pdfurl: "{{url('/contract.pdf')}}",
+            renderType:"canvas",
             // type:"ajax",
             lazy: true
         });
