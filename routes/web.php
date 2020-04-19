@@ -15,3 +15,4 @@
 //    return view('welcome');
 //});
 Route::any('/', 'IndexController@index');
+Route::any('/test', 'TestController@index');

@@ -1,52 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6930a0-553e-44f1-bc6c-f55e1adfd88c" name="默认的" comment="" />
+    <list default="true" id="ef6930a0-553e-44f1-bc6c-f55e1adfd88c" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Console/Commands/explodeZip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/debts_objects/debts_objects_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects/objects_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_change/objects_change_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/objects_investment/objects_investment_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/transactions/transactions_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/origin/v2-bankd-91340100MA2QD3BU9B-201903-106/users/users_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-001-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-002-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-003-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-004-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-005-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-006-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-007-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-008-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-009-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-010-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-011-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-012-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-013-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-014-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-015-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-016-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-017-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-018-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-019-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201812-106-020-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-001-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-002-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-003-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-004-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-005-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-006-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-007-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-008-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-009-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-010-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-011-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-012-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-013-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-014-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-015-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-016-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-017-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-018-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-019-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-020-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-021-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-022-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-023-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-024-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201901-106-025-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-001-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-002-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-003-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-004-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-005-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-006-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-007-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-008-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-009-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-010-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-011-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-012-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-013-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-014-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-015-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-016-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-017-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-018-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-019-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-020-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-021-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-022-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-023-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-024-106.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/result/v2-bankd-91340100MA2QD3BU9B-201902-106-025-106.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ashinWeChat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ashinWeChat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/packages.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="ashinWeChat" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="PhpDebugGeneral" xdebug_debug_port="9100" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="www.ashin.com" id="2cc6edab-4df2-4450-b76a-975a32f22a63" name="ashin" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="D:/phpstudy_pro/WWW/ashin" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1Y0YU117qtmUslpAEomNd2IOr9Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\ashin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\wamp\www\ashinWeChat" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP HTTP Request.ashin">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ashin" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="ashin">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -56,18 +401,6 @@
       <envs />
       <method v="2" />
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,10 +413,84 @@
       <option name="presentableId" value="Default" />
       <updated>1559551574260</updated>
       <workItem from="1582080992676" duration="26000" />
+      <workItem from="1587233882254" duration="1645000" />
+      <workItem from="1587296844130" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#Servers" timestamp="1587235377738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1587235377738" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587235510277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587235510277" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587235516905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587235516905" />
+    <state x="750" y="128" key="SettingsEditor" timestamp="1587235455155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="128" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587235455155" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
